@@ -63,7 +63,7 @@ Sometimes it was so bad I couldn't sleep! So, Sisi Tambu, you put into your stom
 ```
 you answer back? Didn't you hear me tell you that just now?
 Now sit down and eat that food. All of it. I want to see you eat all of it.'
-T've had enough,' explained Nyasha. 'Really, I'm full.' Her foot began to tap. Instead of sitting down she walked out of the dining-room.
+I've had enough,' explained Nyasha. 'Really, I'm full.' Her foot began to tap. Instead of sitting down she walked out of the dining-room.
 [84]
 ```
 
@@ -78,7 +78,9 @@ One day she behaved very badly indeed. They arrived at eleven o'clock in the mor
 ```
 
 ```
-[]
+As if it is ever easy, And these days it is worse, with the poverty of blackness on one side and the weight of womanhood on the other 
+[16]
+
 ```
 
 ```
@@ -94,7 +96,7 @@ One day she behaved very badly indeed. They arrived at eleven o'clock in the mor
 ```  ```
 
 
-## Thesis Brainstorming
+# Thesis Brainstorming
 
 The women seem to exist on a spectrum of sorts .
 
@@ -119,7 +121,31 @@ Maiguru takes food (breakfast) before leaving.
 
 The Mother eats but cannot provide food for her own child. 
 
+__Nyasha, Tambu and Lucia all are young women trapped within a colonial, racist, and patriarchal society. They are each affected by it differently, and in turn affect it differently__
 
+# Outline
+
+### Intro / Abstract
+__Nyasha, Tambu and Lucia all are young women trapped within a colonial, racist, and patriarchal society. They are each affected by it differently, and in turn affect it differently__
+
+### The colonial weight
+As if it is ever easy, And these days it is worse, with the poverty of blackness on one side and the weight of womanhood on the other 
+
+### Nyasha, Oh Starving! 
+
+#### Nyasha's interaction with colonialism
+#### Her Relation to food
+#### Her relation to education
+
+### Tambu forces food down, eats to get strong enough to escape
+#### Tambu's interaction with colonialism
+#### Her Relation to food
+#### Her relation to education
+
+### Lucia, a middle ground?
+#### Lucias interaction with colonialism
+#### Her Relation to food
+#### Her Relation to education
 
 
 
