@@ -1,7 +1,7 @@
 # Rough Outline
 
 # Quotes
-
+## Nervous Conditions
 ```
 Nyasha was losing weight steadily,constantly,rapidly 
 [199]
@@ -84,9 +84,42 @@ One day she behaved very badly indeed. They arrived at eleven o'clock in the mor
 ```
 []
 ```
-
+## The Hunger Artist
 ```
-[]
+“Are you still fasting?” the supervisor asked. “When are you finally going to stop?” “Forgive me everything,” whispered the hunger artist. Only the supervisor, who was pressing his ear up against the cage, understood him. “Certainly,” said the supervisor, tapping his forehead with his finger in order to indicate to the spectators the state the hunger artist was in, “we forgive you.” “I always wanted you to admire my fasting,” said the hunger artist. “But we do admire it,” said the supervisor obligingly. “But you shouldn’t admire it,” said the hunger artist. “Well then, we don’t admire it,” said the supervisor, “but why shouldn’t we admire it?” “Because I had to fast. I can’t do anything else,” said the hunger artist. “Just look at you,” said the supervisor, “why can’t you do anything else?” “Because,” said the hunger artist, lifting his head a little and, with his lips pursed as if for a kiss, speaking right into the supervisor’s ear so that he wouldn’t miss anything, “because I couldn’t find a food which I enjoyed. If had found that, believe me, I would not have made a spectacle of myself and would have eaten to my heart’s content, like you and everyone else.” Those were his last words, but in his failing eyes there was the firm, if no longer proud, conviction that he was continuing to fast.
+
+“All right, tidy this up now,” said the supervisor. And they buried the hunger artist along with the straw. But in his cage they put a young panther. Even for a person with the dullest mind it was clearly refreshing to see this wild animal throwing itself around in this cage, which had been dreary for such a long time. It lacked nothing. Without thinking about it for any length of time, the guards brought the animal food. It enjoyed the taste and never seemed to miss its freedom. This noble body, equipped with everything necessary, almost to the point of bursting, also appeared to carry freedom around with it. That seem to be located somewhere or other in its teeth, and its joy in living came with such strong passion from its throat that it was not easy for spectators to keep watching. But they controlled themselves, kept pressing around the cage, and had no desire to move on.
+[8?]
 ```
 ```  ```
+
+
+## Thesis Brainstorming
+
+The women seem to exist on a spectrum of sorts .
+
+Nyasha is the most (anglicized) educated and also is starving.   Tambu struggles with food, but is relatively healthy, and is the moderately educated. Lucia is the least educated and somehow the (almost magically) the most fed.
+
+
+| Nyasha | Lucia |
+| -------- | ------- |
+|Feminine | Masculine (Feminine Body) |
+|Hungry | Well Fed|
+
+
+Nyasha is knowledgable and thus aware of the heirarchy on a much more theoretitical lebvel where as Lucia isn't educated and so she naively combats the Patriacharal nature of society. 
+
+Food is the pathway to education, Nhamo not only steals her food, but he steals her education. When she sells her corn, she is not selling it as corn but actually her need for education. 
+
+When Nyasha argues with her father at the dinner table she is forced to eat. Eating as a means of control. Nyasha develops anorexia in part as a need to control.
+
+Somehow Lucia is not controlled by food. 
+
+Maiguru takes food (breakfast) before leaving. 
+
+The Mother eats but cannot provide food for her own child. 
+
+
+
+
 
