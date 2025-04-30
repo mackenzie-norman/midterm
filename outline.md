@@ -46,7 +46,7 @@ She did not slink away in the dark, but quite openly packed a suitcase, put on h
 ```
 
 ```
-Babamukuru. But Maiguru took the serving-spoon from between his fingers and spooned several hefty chunks of beei on to his plate.
+Babamukuru. But Maiguru took the serving-spoon from between his fingers and spooned several hefty chunks of beef on to his plate.
 In spite of looking a little nauseous, Babamukuru tucked in manfully; then Maiguru served me and finally herself.
 The food looked interesting, which made me suspicious of it since I knew that food was not meant to be interesting but filling.
 Besides the rice, there was something that might have been potato:
@@ -86,6 +86,12 @@ As if it is ever easy, And these days it is worse, with the poverty of blackness
 ```
 []
 ```
+## Interview with Dangarembga
+```
+People make individual choices. I think mapping the ground helps in making the choices. Such maps, written in an engaging way, are part of what I perceive some of my responsibility as a novelist to be.
+[2]
+```
+
 ## The Hunger Artist
 ```
 “Are you still fasting?” the supervisor asked. “When are you finally going to stop?” “Forgive me everything,” whispered the hunger artist. Only the supervisor, who was pressing his ear up against the cage, understood him. “Certainly,” said the supervisor, tapping his forehead with his finger in order to indicate to the spectators the state the hunger artist was in, “we forgive you.” “I always wanted you to admire my fasting,” said the hunger artist. “But we do admire it,” said the supervisor obligingly. “But you shouldn’t admire it,” said the hunger artist. “Well then, we don’t admire it,” said the supervisor, “but why shouldn’t we admire it?” “Because I had to fast. I can’t do anything else,” said the hunger artist. “Just look at you,” said the supervisor, “why can’t you do anything else?” “Because,” said the hunger artist, lifting his head a little and, with his lips pursed as if for a kiss, speaking right into the supervisor’s ear so that he wouldn’t miss anything, “because I couldn’t find a food which I enjoyed. If had found that, believe me, I would not have made a spectacle of myself and would have eaten to my heart’s content, like you and everyone else.” Those were his last words, but in his failing eyes there was the firm, if no longer proud, conviction that he was continuing to fast.
