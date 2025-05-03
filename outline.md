@@ -100,7 +100,10 @@ People make individual choices. I think mapping the ground helps in making the c
 [8?]
 ```
 ```  ```
+## Fanon 
+In the colonial context the colonist only quits undermining the colonized once the latter have proclaimed loud and clear that white values reign supreme. In the period of decolonization the colonized masses thumb their noses at these very values, shower them with insults and vomit them up.
 
+The very people that had it drummed into them that the only language they understood is force, now decide to express themselves with force. In fact the colonist has always shown them the path they should to liberation.
 
 # Thesis Brainstorming
 
